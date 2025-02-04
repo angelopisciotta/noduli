@@ -7,3 +7,4 @@ data/Scan/Scan_14.nii.gz filter=lfs diff=lfs merge=lfs
 data/Scan/Scan_4.nii.gz filter=lfs diff=lfs merge=lfs
 data/Scan/Scan_12.nii.gz filter=lfs diff=lfs merge=lfs
 data/Scan/Scan_0.nii.gz filter=lfs diff=lfs merge=lfs
+data/Scan/Scan_19.nii.gz filter=lfs diff=lfs merge=lfs
